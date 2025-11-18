@@ -133,8 +133,7 @@ SELECT * FROM host_usage;
 The project is deployed using **GitHub** for version control, **Docker** to run the PostgreSQL database, and **cron** to schedule the `host_usage.sh` script to collect data automatically at regular intervals.
 
 # Improvements
-Write at least three things you want to improve
 
-- Handle hardware updates
-- Add primary key in host_usage table
-- Test the code using more node
+-  Handle hardware updates dynamically in `host_info.sh`.
+- Add a primary key to the `host_usage` table for better data integrity and easier referencing.
+- Test the scripts and database insertion with multiple nodes to ensure scalability.
