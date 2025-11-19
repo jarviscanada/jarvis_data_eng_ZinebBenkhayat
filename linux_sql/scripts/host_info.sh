@@ -19,7 +19,7 @@ cpu_architecture=$(echo "$lscpu_out"  | egrep "^Architecture:" | awk '{print $2}
 cpu_model="$(echo "$lscpu_out" | grep '^Model name:' | awk '{print substr($0, index($0, $3))}' | xargs)"
 cpu_mhz=$( cat /proc/cpuinfo | grep 'cpu MHz' | awk '{print $4}' | uniq)
 l2_cache=$(echo "$lscpu_out"  | egrep "^L2 cache:" | awk  '{print $3 * 1024}' | xargs)
-total_mem=$(vmstat --unit M | tail -1 | awk '{print $4}')
+total_mem=$(grep "MemTotal" /proc/meminfo | awk '{print $2}' | xargs)
 timestamp=$(date -u +'%Y-%m-%d %H:%M:%S')
 
 insert_stmt="INSERT INTO host_info  ( hostname, cpu_number, cpu_architecture, cpu_model, cpu_mhz, l2_cache, timestamp, total_mem)
