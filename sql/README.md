@@ -1,5 +1,5 @@
 # Introduction
-
+SQL (Structured Query Language) is a fundamental skill for anyone working with data. This project is a learning exercise designed to help you build practical SQL and RDBMS knowledge through hands-on practice.
 # SQL Queries
 
 ###### Table Setup (DDL)
