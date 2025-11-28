@@ -1,0 +1,118 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "GPA: 3.63/4.0"
+      ],
+      "degree": "Bachelor of Software Engineering",
+      "department": "Software Engineering",
+      "duration": "2021-2025",
+      "school_name": "École de technologie supérieure "
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_ZinebBenkhayat",
+  "highlighted_projects": [
+    {
+      "description": "I developed a flexible platform that enables researchers and clinicians to explore machine learning results from multimodal data, including video, speech, text, and eye-tracking, for patients with cognitive disorders like Alzheimer. The platform standardizes diverse data sources, integrates data processing pipelines, and provides configurable visualizations tailored to different types of data. The implementation focuses on flexibility, security, and usability, while ensuring maintainability, interoperability, and scalability. This project involved user interface design, database management, Python programming, and machine learning.",
+      "git_url": null,
+      "name": "Scalable platform for analyzing multimodal clinical and laboratory data"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "I developed a Linux cluster monitoring MVP using Bash, PostgreSQL, Docker, and cron to collect hardware information and real-time CPU and memory usage from each node. I implemented automated agent scripts to persist this data and enable SQL-based reporting for resource planning. I managed the source code with Git/GitHub and containerized the PostgreSQL database to simplify deployment and testing.",
+      "git_url": "/linux_sql",
+      "name": "Cluster Monitor"
+    }
+  ],
+  "name": "Zineb Benkhayat",
+  "others": [
+    {
+      "bullets": [
+        "Udacity Machine Learning (2019)"
+      ],
+      "title": "Certificates"
+    },
+    {
+      "bullets": [
+        "Winner"
+      ],
+      "title": "Awards"
+    },
+    {
+      "bullets": [
+        "Basketball player",
+        "Competitive gaming",
+        "Volunteer, ABC Food bank: Ut enim ad minim veniam"
+      ],
+      "title": "Activities/Hobbies"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "As a Junior Data Engineer, I developed data engineering skills by coding real projects, collaborating in Agile sprints, participating in peer reviews, and ensuring good quality deliverables.",
+      "duration": "2025-present",
+      "title": "Data Analyst"
+    },
+    {
+      "company": "RVE: Solutions de recharge pour véhicules électriques",
+      "description": "contributed to decision-making regarding the features of a brand-new application and planned, created, and managed Jira tickets based on client requirements. I took ownership of assigned tickets and developed Vue.js and TypeScript features, while scripting automation in Python. I wrote and executed tests to ensure feature reliability, documented all developed functionality, created Bitbucket pull requests, and validated features through the peer review process.",
+      "duration": "01/2025-08/2025",
+      "title": "Web Developer Inten"
+    },
+    {
+      "company": "Barreau du Québec",
+      "description": "I analyzed client requirements to define feature specifications and developed full-stack features using Java Spring Boot for the backend and Angular for the frontend. I managed task progress in a Kanban workflow and documented all developed features.",
+      "duration": "05/2024-08/2024",
+      "title": "Programmer Analyst Intern"
+    },
+    {
+      "company": "Neptronic",
+      "description": "I implemented a GitLab server instance and configured continuous integration and deployment (CI/CD) pipelines, ensuring reliable and automated development workflows. I planned, installed, and documented the platform while training users on its functionality. I continuously reassessed requirements and collaborated with internal teams and in-house clients to refine processes and adapt the platform to evolving needs.",
+      "duration": "05/2023-08/2023",
+      "title": "Project Manager Intern for a GitLab Server"
+    },
+    {
+      "company": "Summit-tech",
+      "description": "I designed and executed comprehensive test scenarios to ensure the quality and reliability of mobile applications. I managed development sprints using Jira by coordinating team tasks and tracking progress. I identified, reproduced, and isolated software bugs, documented issues thoroughly, and communicated findings to the development team.",
+      "duration": "01/2022-04/2022",
+      "title": "QA Analyst Intern"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "Panda",
+      "JavaScript",
+      "C",
+      "C++",
+      "Micorservices",
+      "Project management"
+    ],
+    "familiar": [
+      "Kubernetes",
+      "C#",
+      "LLMs",
+      "Mobile App Development",
+      "Jenkins"
+    ],
+    "proficient": [
+      "Java",
+      "Linux/Bash",
+      "RDBMS/SQL",
+      "Agile/Scrum",
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Python",
+      "Angular",
+      "TypeScript",
+      "Django",
+      "Docker",
+      "Object-oriented programming",
+      "Vue.js",
+      "Web application programming"
+    ]
+  },
+  "summary": "I am a recent graduate from the École de technologie supérieure with a degree in Software Engineering, and I am excited to apply my knowledge and skills in a professional environment. Throughout my internships, I was exposed to several facets of software development. I began as a QA Analyst, where I strengthened my testing abilities and collaborated closely with developers. I then took on the role of GitLab server manager, which allowed me to learn CI/CD pipelines and automation. My last two internships were more development-focused, giving me hands-on experience in both frontend and backend technologies while working in Agile environments such as Scrum and Kanban. I have a strong interest in web development and a genuine passion for cybersecurity. During my studies, I completed several courses that allowed me to explore penetration testing, assembly language, and security fundamentals. What excites me most about the software industry is its constant evolution, the opportunity to solve meaningful problems, and the ability to keep learning every day."
+}
