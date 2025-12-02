@@ -1,0 +1,106 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "GPA: 3.63/4.0"
+      ],
+      "degree": "Baccalauréat en génie logiciel",
+      "department": "Génie logiciel",
+      "duration": "2021-2025",
+      "school_name": "École de technologie supérieure "
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_ZinebBenkhayat",
+  "highlighted_projects": [
+    {
+      "description": "J'ai développé une plateforme flexible permettant aux chercheurs et aux cliniciens d'explorer les résultats de modèles d'apprentissage automatique issus de données multimodales, incluant la vidéo, la parole, le texte et le suivi oculaire, pour des patients atteints de troubles cognitifs comme l'Alzheimer. La plateforme normalise des sources de données variées, intègre des pipelines de traitement et offre des visualisations configurables adaptées aux différents types de données. L'implémentation met l'accent sur la flexibilité, la sécurité et la convivialité, tout en assurant la maintenabilité, l'interopérabilité et l'évolutivité. Ce projet a impliqué la conception d'interface utilisateur, la gestion de base de données, la programmation en Python et l'apprentissage automatique.",
+      "git_url": null,
+      "name": "Plateforme évolutive pour l'analyse de données cliniques et de laboratoire multimodales"
+    },
+    {
+      "description": "J'ai développé et amélioré un système de microservices en C# qui compare les temps de déplacement des autobus de la STM avec les données automobiles de TomTom. J'ai intégré l'API de la STM, mis en oeuvre des tactiques architecturales clés (télémétrie, disponibilité, performance, modifiabilité) et déployé l'ensemble des services avec Docker. J'ai renforcé la résilience du système en utilisant ChaosMonkey pour simuler des pannes de conteneurs, des limites de ressources et des interruptions de connecteurs ou de bases de données, et j'ai livré une documentation architecturale claire appuyée par des diagrammes de séquence et des spécifications d'interface.",
+      "git_url": null,
+      "name": "Projet d'architecture microservices"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "J'ai développé un système de surveillance d'un cluster Linux en utilisant Bash, PostgreSQL, Docker et cron afin de collecter les informations matérielles ainsi que l'utilisation en temps réel du CPU et de la mémoire de chaque noeud. J'ai mis en place des scripts agents automatisés pour stocker ces données et permettre la génération de rapports basés sur SQL pour la planification des ressources. J'ai géré le code source avec Git/GitHub et conteneurisé la base de données PostgreSQL afin de simplifier le déploiement et les tests.",
+      "git_url": "/linux_sql",
+      "name": "Cluster Monitor"
+    }
+  ],
+  "name": "Zineb Benkhayat",
+  "others": [
+    {
+      "bullets": [
+        "Yoga et Pilates pour améliorer le bien-être physique tout en restant actif dans un environnement de groupe calme favorisant les interactions sociales."
+      ],
+      "title": "Activities/Hobbies"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "En tant qu'ingénieur de données junior, j'ai développé mes compétences en ingénierie des données en réalisant de vrais projets, en collaborant dans des sprints Agile, en participant à des revues de code entre pairs et en garantissant la qualité des livrables.",
+      "duration": "2025-présent",
+      "title": "Ingénieur de données"
+    },
+    {
+      "company": "RVE: Solutions de recharge pour véhicules électriques",
+      "description": "J'ai contribué à la prise de décision concernant les fonctionnalités d'une toute nouvelle application et j'ai planifié, créé et géré des tickets Jira selon les exigences des clients. J'ai pris en charge les tickets qui m'étaient assignés et développé des fonctionnalités en Vue.js et TypeScript, tout en automatisant certaines tâches avec Python. J'ai rédigé et exécuté des tests pour assurer la fiabilité des fonctionnalités, documenté l'ensemble des développements réalisés, créé des pull requests sur Bitbucket et validé les fonctionnalités à travers le processus de revue par les pairs.",
+      "duration": "01/2025-08/2025",
+      "title": "Stagiaire développeuse web"
+    },
+    {
+      "company": "Barreau du Québec",
+      "description": "J'ai analysé les besoins des clients pour un site web de services juridiques afin de définir des spécifications claires des fonctionnalités, puis j'ai développé des fonctionnalités full-stack en utilisant Java Spring Boot pour le backend et Angular pour le frontend. J'ai suivi l'avancement des tâches dans un workflow Kanban et documenté l'ensemble des fonctionnalités développées.",
+      "duration": "05/2024-08/2024",
+      "title": "Stagiaire analyste programmeur"
+    },
+    {
+      "company": "Neptronic",
+      "description": "J'ai mis en place une instance de serveur GitLab et configuré des pipelines d'intégration et de déploiement continus (CI/CD) à l'aide de GitLab Runner, automatisant les étapes de build et de déploiement grâce à des scripts Python personnalisés afin d'assurer des flux de développement fiables et automatisés. J'ai planifié, installé et documenté la plateforme tout en formant les utilisateurs à son fonctionnement. J'ai constamment réévalué les besoins et collaboré avec les équipes internes ainsi qu'avec les clients internes pour affiner les processus et adapter la plateforme aux besoins évolutifs.",
+      "duration": "05/2023-08/2023",
+      "title": "Stagiaire gestionnaire de projet pour un serveur GitLab"
+    },
+    {
+      "company": "Summit-tech",
+      "description": "J'ai conçu et exécuté des scénarios de test complets afin de garantir la qualité et la fiabilité des applications mobiles. J'ai géré les sprints de développement avec Jira en coordonnant les tâches de l'équipe et en suivant l'avancement. J'ai identifié, reproduit et isolé les bugs logiciels, documenté les problèmes de manière détaillée et communiqué les résultats à l'équipe de développement.",
+      "duration": "01/2022-04/2022",
+      "title": "Stagiaire analyste QA"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "Panda",
+      "JavaScript",
+      "C",
+      "C++",
+      "Microservices",
+      "Project management"
+    ],
+    "familiar": [
+      "Kubernetes",
+      "C#",
+      "LLMs",
+      "Mobile App Development",
+      "Jenkins"
+    ],
+    "proficient": [
+      "Java",
+      "Python",
+      "Linux/Bash",
+      "RDBMS/SQL",
+      "Angular",
+      "TypeScript",
+      "Django",
+      "Docker",
+      "Vue.js",
+      "Web application programming",
+      "Agile/Scrum",
+      "Git"
+    ]
+  },
+  "summary": "Je suis récemment diplômée de l'École de technologie supérieure avec un baccalauréat en génie logiciel, et je suis enthousiaste à l'idée de mettre mes connaissances et mes compétences en pratique dans un environnement professionnel. Au cours de mes stages, j'ai été exposée à plusieurs facettes du développement logiciel. J'ai débuté comme analyste QA, où j'ai renforcé mes compétences en tests et collaboré étroitement avec les développeurs. J'ai ensuite occupé le rôle de gestionnaire de serveur GitLab, ce qui m'a permis d'apprendre les pipelines CI/CD et l'automatisation. Mes deux derniers stages étaient davantage axés sur le développement, m'offrant une expérience pratique autant en frontend qu'en backend, tout en travaillant dans des environnements Agile tels que Scrum et Kanban. J'ai un fort intérêt pour le développement web ainsi qu'une véritable passion pour la cybersécurité. Durant mes études, j'ai suivi plusieurs cours qui m'ont permis d'explorer les tests d'intrusion, le langage d'assemblage et les notions fondamentales de sécurité. Ce qui m'enthousiasme le plus dans l'industrie du logiciel, c'est son évolution constante, la possibilité de résoudre des problèmes concrets et la chance d'apprendre chaque jour."
+}
